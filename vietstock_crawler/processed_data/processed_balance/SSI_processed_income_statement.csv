@@ -1,0 +1,404 @@
+report_id,index,value,ingestion_date,updated_date
+SSIBCKQKDQ42023,A. TÀI SẢN NGẮN HẠN,65755,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,A. TÀI SẢN NGẮN HẠN,61958,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,A. TÀI SẢN NGẮN HẠN,67558,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,A. TÀI SẢN NGẮN HẠN,64284,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,A. TÀI SẢN NGẮN HẠN,70932,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,I. Tài sản tài chính ngắn hạn,65659,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,I. Tài sản tài chính ngắn hạn,61829,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,I. Tài sản tài chính ngắn hạn,67451,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,I. Tài sản tài chính ngắn hạn,64079,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,I. Tài sản tài chính ngắn hạn,70814,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1. Tiền và các khoản tương đương tiền,494,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1. Tiền và các khoản tương đương tiền,155,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1. Tiền và các khoản tương đương tiền,2132,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1. Tiền và các khoản tương đương tiền,661,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1. Tiền và các khoản tương đương tiền,239,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1.1. Tiền,479,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1.1. Tiền,142,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1.1. Tiền,131,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1.1. Tiền,661,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1.1. Tiền,209,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1.2. Các khoản tương đương tiền,15,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1.2. Các khoản tương đương tiền,13,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1.2. Các khoản tương đương tiền,2001,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1.2. Các khoản tương đương tiền,30,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,2. Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),44072,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,2. Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),39295,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,2. Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),40015,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,2. Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),37316,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,2. Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL),42438,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),4973,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),3592,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),3401,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),4979,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,3. Các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM),3894,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,4. Các khoản cho vay,15134,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,4. Các khoản cho vay,17570,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,4. Các khoản cho vay,20385,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,4. Các khoản cho vay,19499,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,4. Các khoản cho vay,21999,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,5. Các tài sản tài chính sẵn sàn để bán (AFS),416,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,5. Các tài sản tài chính sẵn sàn để bán (AFS),573,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,5. Các tài sản tài chính sẵn sàn để bán (AFS),591,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,5. Các tài sản tài chính sẵn sàn để bán (AFS),583,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,5. Các tài sản tài chính sẵn sàn để bán (AFS),562,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,6. Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp,-33,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,6. Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp,-33,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,6. Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp,-33,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,6. Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp,-22,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,6. Dự phòng suy giảm giá trị tài sản tài chính và tài sản thế chấp,-55,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,7. Các khoản phải thu ngắn hạn,590,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,7. Các khoản phải thu ngắn hạn,613,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,7. Các khoản phải thu ngắn hạn,650,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,7. Các khoản phải thu ngắn hạn,534,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,7. Các khoản phải thu ngắn hạn,801,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,7.1. Phải thu bán các tài sản tài chính,268,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,7.1. Phải thu bán các tài sản tài chính,235,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,7.1. Phải thu bán các tài sản tài chính,232,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,7.1. Phải thu bán các tài sản tài chính,232,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,7.1. Phải thu bán các tài sản tài chính,508,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",322,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",378,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",419,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",303,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",293,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"7.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận",322,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"7.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận",378,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"7.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận",419,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"7.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận",303,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"7.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận",293,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,Trả trước cho người bán,32,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,Trả trước cho người bán,66,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,Trả trước cho người bán,335,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,Trả trước cho người bán,549,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,Trả trước cho người bán,928,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,9. Phải thu các dịch vụ CTCK cung cấp,21,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,9. Phải thu các dịch vụ CTCK cung cấp,24,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,9. Phải thu các dịch vụ CTCK cung cấp,20,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,9. Phải thu các dịch vụ CTCK cung cấp,19,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,9. Phải thu các dịch vụ CTCK cung cấp,30,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,12. Các khoản phải thu khác,192,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,12. Các khoản phải thu khác,205,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,12. Các khoản phải thu khác,186,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,12. Các khoản phải thu khác,192,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,12. Các khoản phải thu khác,210,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,13. Dự phòng suy giảm giá trị các khoản phải thu,-232,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,13. Dự phòng suy giảm giá trị các khoản phải thu,-232,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,13. Dự phòng suy giảm giá trị các khoản phải thu,-232,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,13. Dự phòng suy giảm giá trị các khoản phải thu,-232,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,13. Dự phòng suy giảm giá trị các khoản phải thu,-232,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,II. Tài sản ngắn hạn khác,96,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,II. Tài sản ngắn hạn khác,129,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,II. Tài sản ngắn hạn khác,107,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,II. Tài sản ngắn hạn khác,205,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,II. Tài sản ngắn hạn khác,119,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1. Tạm ứng,19,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1. Tạm ứng,22,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1. Tạm ứng,23,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1. Tạm ứng,28,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1. Tạm ứng,21,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"2. Vật tư văn phòng, công cụ, dụng cụ",1,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"2. Vật tư văn phòng, công cụ, dụng cụ",1,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"2. Vật tư văn phòng, công cụ, dụng cụ",1,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"2. Vật tư văn phòng, công cụ, dụng cụ",1,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"2. Vật tư văn phòng, công cụ, dụng cụ",1,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,3. Chi phí trả trước ngắn hạn,63,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,3. Chi phí trả trước ngắn hạn,57,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,3. Chi phí trả trước ngắn hạn,59,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,3. Chi phí trả trước ngắn hạn,44,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,3. Chi phí trả trước ngắn hạn,55,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn",1,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,Thuế và các khoản khác phải thu của nhà nước,0,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,Thuế và các khoản khác phải thu của nhà nước,0,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,Thuế và các khoản khác phải thu của nhà nước,0,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,Thuế và các khoản khác phải thu của nhà nước,0,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,5. Tài sản ngắn hạn khác,12,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,5. Tài sản ngắn hạn khác,49,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,5. Tài sản ngắn hạn khác,24,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,5. Tài sản ngắn hạn khác,133,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,5. Tài sản ngắn hạn khác,42,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,B. TÀI SẢN DÀI HẠN,3486,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,B. TÀI SẢN DÀI HẠN,3531,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,B. TÀI SẢN DÀI HẠN,3550,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,B. TÀI SẢN DÀI HẠN,1898,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,B. TÀI SẢN DÀI HẠN,2575,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,I. Tài sản tài chính dài hạn,2821,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,I. Tài sản tài chính dài hạn,2874,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,I. Tài sản tài chính dài hạn,2903,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,I. Tài sản tài chính dài hạn,1281,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,I. Tài sản tài chính dài hạn,1626,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,2. Các khoản đầu tư,2821,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,2. Các khoản đầu tư,2874,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,2. Các khoản đầu tư,2903,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,2. Các khoản đầu tư,1281,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,2. Các khoản đầu tư,1626,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,2.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn,2172,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,2.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn,2210,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,2.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn,2249,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,2.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn,605,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,2.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn,938,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"2.3 Đầu tư vào công ty liên kết, liên doanh",650,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"2.3 Đầu tư vào công ty liên kết, liên doanh",664,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"2.3 Đầu tư vào công ty liên kết, liên doanh",654,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"2.3 Đầu tư vào công ty liên kết, liên doanh",676,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"2.3 Đầu tư vào công ty liên kết, liên doanh",687,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,II. Tài sản cố định,269,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,II. Tài sản cố định,249,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,II. Tài sản cố định,228,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,II. Tài sản cố định,235,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,II. Tài sản cố định,231,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1. Tài sản cố định hữu hình,172,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1. Tài sản cố định hữu hình,158,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1. Tài sản cố định hữu hình,144,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1. Tài sản cố định hữu hình,130,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1. Tài sản cố định hữu hình,119,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,- Nguyên giá,409,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,- Nguyên giá,409,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,- Nguyên giá,408,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,- Nguyên giá,408,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,- Nguyên giá,408,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,- Giá trị hao mòn lũy kế,-237,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,- Giá trị hao mòn lũy kế,-251,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,- Giá trị hao mòn lũy kế,-264,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,- Giá trị hao mòn lũy kế,-278,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,- Giá trị hao mòn lũy kế,-290,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,3. Tài sản cố định vô hình,97,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,3. Tài sản cố định vô hình,91,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,3. Tài sản cố định vô hình,84,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,3. Tài sản cố định vô hình,105,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,3. Tài sản cố định vô hình,113,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,- Nguyên giá,255,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,- Nguyên giá,260,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,- Nguyên giá,265,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,- Nguyên giá,297,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,- Nguyên giá,314,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,- Giá trị hao mòn lũy kế,-158,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,- Giá trị hao mòn lũy kế,-169,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,- Giá trị hao mòn lũy kế,-181,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,- Giá trị hao mòn lũy kế,-193,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,- Giá trị hao mòn lũy kế,-201,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,III. Bất động sản đầu tư,236,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,III. Bất động sản đầu tư,239,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,III. Bất động sản đầu tư,242,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,III. Bất động sản đầu tư,232,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,III. Bất động sản đầu tư,200,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,- Nguyên giá,334,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,- Nguyên giá,342,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,- Nguyên giá,351,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,- Nguyên giá,339,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,- Nguyên giá,287,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,- Giá trị hao mòn lũy kế,-99,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,- Giá trị hao mòn lũy kế,-103,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,- Giá trị hao mòn lũy kế,-108,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,- Giá trị hao mòn lũy kế,-107,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,- Giá trị hao mòn lũy kế,-87,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,IV. Chi phí xây dựng cơ bản dở dang,32,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,IV. Chi phí xây dựng cơ bản dở dang,39,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,IV. Chi phí xây dựng cơ bản dở dang,48,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,IV. Chi phí xây dựng cơ bản dở dang,26,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,IV. Chi phí xây dựng cơ bản dở dang,388,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,V. Tài sản dài hạn khác,127,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,V. Tài sản dài hạn khác,130,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,V. Tài sản dài hạn khác,129,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,V. Tài sản dài hạn khác,125,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,V. Tài sản dài hạn khác,130,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn",34,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn",34,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn",35,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn",35,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn",31,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,2. Chi phí trả trước dài hạn,30,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,2. Chi phí trả trước dài hạn,26,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,2. Chi phí trả trước dài hạn,29,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,2. Chi phí trả trước dài hạn,27,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,2. Chi phí trả trước dài hạn,22,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,3. Tài sản thuế thu nhập hoãn lại,19,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,3. Tài sản thuế thu nhập hoãn lại,25,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,3. Tài sản thuế thu nhập hoãn lại,19,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,3. Tài sản thuế thu nhập hoãn lại,17,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,3. Tài sản thuế thu nhập hoãn lại,24,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,4. Tiền nộp Quỹ hỗ trợ thanh toán,20,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,4. Tiền nộp Quỹ hỗ trợ thanh toán,20,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,4. Tiền nộp Quỹ hỗ trợ thanh toán,20,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,4. Tiền nộp Quỹ hỗ trợ thanh toán,20,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,4. Tiền nộp Quỹ hỗ trợ thanh toán,20,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,6. Lợi thế thương mại,24,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,6. Lợi thế thương mại,26,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,6. Lợi thế thương mại,26,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,6. Lợi thế thương mại,26,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,6. Lợi thế thương mại,33,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,TỔNG CỘNG TÀI SẢN (270=100+200),69241,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,TỔNG CỘNG TÀI SẢN (270=100+200),65488,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,TỔNG CỘNG TÀI SẢN (270=100+200),71108,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,TỔNG CỘNG TÀI SẢN (270=100+200),66181,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,TỔNG CỘNG TÀI SẢN (270=100+200),73507,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,A. NỢ PHẢI TRẢ (300=310+340),46000,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,A. NỢ PHẢI TRẢ (300=310+340),41467,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,A. NỢ PHẢI TRẢ (300=310+340),46268,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,A. NỢ PHẢI TRẢ (300=310+340),42066,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,A. NỢ PHẢI TRẢ (300=310+340),46681,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,I. Nợ ngắn hạn,45939,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,I. Nợ ngắn hạn,41413,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,I. Nợ ngắn hạn,46201,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,I. Nợ ngắn hạn,41981,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,I. Nợ ngắn hạn,46599,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1. Vay và nợ thuê tài chính ngắn hạn,43169,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1. Vay và nợ thuê tài chính ngắn hạn,40100,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1. Vay và nợ thuê tài chính ngắn hạn,45073,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1. Vay và nợ thuê tài chính ngắn hạn,39286,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1. Vay và nợ thuê tài chính ngắn hạn,45502,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1.1. Vay ngắn hạn,43169,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1.1. Vay ngắn hạn,40100,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1.1. Vay ngắn hạn,45073,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1.1. Vay ngắn hạn,39286,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1.1. Vay ngắn hạn,45502,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,6. Phải trả hoạt động giao dịch chứng khoán,141,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,6. Phải trả hoạt động giao dịch chứng khoán,213,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,6. Phải trả hoạt động giao dịch chứng khoán,262,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,6. Phải trả hoạt động giao dịch chứng khoán,302,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,6. Phải trả hoạt động giao dịch chứng khoán,228,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,8. Phải trả người bán ngắn hạn,862,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,8. Phải trả người bán ngắn hạn,418,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,8. Phải trả người bán ngắn hạn,62,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,8. Phải trả người bán ngắn hạn,122,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,8. Phải trả người bán ngắn hạn,103,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,9. Người mua trả tiền trước ngắn hạn,24,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,9. Người mua trả tiền trước ngắn hạn,34,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,9. Người mua trả tiền trước ngắn hạn,28,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,9. Người mua trả tiền trước ngắn hạn,31,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,9. Người mua trả tiền trước ngắn hạn,26,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,10. Thuế và các khoản phải nộp Nhà nước,360,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,10. Thuế và các khoản phải nộp Nhà nước,259,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,10. Thuế và các khoản phải nộp Nhà nước,259,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,10. Thuế và các khoản phải nộp Nhà nước,225,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,10. Thuế và các khoản phải nộp Nhà nước,201,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,11. Phải trả người lao động,108,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,11. Phải trả người lao động,49,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,11. Phải trả người lao động,49,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,11. Phải trả người lao động,49,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,11. Phải trả người lao động,94,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,12. Các khoản trích nộp phúc lợi nhân viên,1,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,12. Các khoản trích nộp phúc lợi nhân viên,1,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,12. Các khoản trích nộp phúc lợi nhân viên,1,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,12. Các khoản trích nộp phúc lợi nhân viên,1,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,12. Các khoản trích nộp phúc lợi nhân viên,1,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,13. Chi phí phải trả ngắn hạn,68,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,13. Chi phí phải trả ngắn hạn,98,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,13. Chi phí phải trả ngắn hạn,83,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,13. Chi phí phải trả ngắn hạn,75,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,13. Chi phí phải trả ngắn hạn,68,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,15. Doanh thu chưa thực hiện ngắn hạn,1,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,15. Doanh thu chưa thực hiện ngắn hạn,1,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,15. Doanh thu chưa thực hiện ngắn hạn,2,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,15. Doanh thu chưa thực hiện ngắn hạn,1,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,15. Doanh thu chưa thực hiện ngắn hạn,1,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"16. Nhận ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"16. Nhận ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"16. Nhận ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"16. Nhận ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"16. Nhận ký quỹ, ký cược ngắn hạn",0,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,"17. Các khoản phải trả, phải nộp khác ngắn hạn",903,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,"17. Các khoản phải trả, phải nộp khác ngắn hạn",24,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,"17. Các khoản phải trả, phải nộp khác ngắn hạn",17,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,"17. Các khoản phải trả, phải nộp khác ngắn hạn",1526,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,"17. Các khoản phải trả, phải nộp khác ngắn hạn",18,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,19. Quỹ khen thưởng phúc lợi,302,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,19. Quỹ khen thưởng phúc lợi,217,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,19. Quỹ khen thưởng phúc lợi,366,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,19. Quỹ khen thưởng phúc lợi,364,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,19. Quỹ khen thưởng phúc lợi,357,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,II. Nợ dài hạn,61,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,II. Nợ dài hạn,54,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,II. Nợ dài hạn,66,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,II. Nợ dài hạn,86,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,II. Nợ dài hạn,81,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,9. Doanh thu chưa thực hiện dài hạn,52,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,9. Doanh thu chưa thực hiện dài hạn,52,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,9. Doanh thu chưa thực hiện dài hạn,52,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,9. Doanh thu chưa thực hiện dài hạn,52,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,9. Doanh thu chưa thực hiện dài hạn,55,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,14. Thuế thu nhập hoãn lại phải trả,9,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,14. Thuế thu nhập hoãn lại phải trả,2,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,14. Thuế thu nhập hoãn lại phải trả,14,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,14. Thuế thu nhập hoãn lại phải trả,33,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,14. Thuế thu nhập hoãn lại phải trả,27,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,B. VỐN CHỦ SỞ HỮU (400=410+420),23241,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,B. VỐN CHỦ SỞ HỮU (400=410+420),24021,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,B. VỐN CHỦ SỞ HỮU (400=410+420),24840,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,B. VỐN CHỦ SỞ HỮU (400=410+420),24115,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,B. VỐN CHỦ SỞ HỮU (400=410+420),26827,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,I. Vốn chủ sở hữu,23241,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,I. Vốn chủ sở hữu,24021,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,I. Vốn chủ sở hữu,24840,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,I. Vốn chủ sở hữu,24115,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,I. Vốn chủ sở hữu,26827,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1. Vốn đầu tư của chủ sở hữu,18291,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1. Vốn đầu tư của chủ sở hữu,18291,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1. Vốn đầu tư của chủ sở hữu,18391,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1. Vốn đầu tư của chủ sở hữu,18449,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1. Vốn đầu tư của chủ sở hữu,20713,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1.1. Vốn góp của chủ sở hữu,15011,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1.1. Vốn góp của chủ sở hữu,15011,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1.1. Vốn góp của chủ sở hữu,15111,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1.1. Vốn góp của chủ sở hữu,18130,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1.1. Vốn góp của chủ sở hữu,19639,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,a. Cổ phiếu phổ thông,15011,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,a. Cổ phiếu phổ thông,15011,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,a. Cổ phiếu phổ thông,15111,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,a. Cổ phiếu phổ thông,18130,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,a. Cổ phiếu phổ thông,19639,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1.2. Thặng dư vốn cổ phần,3299,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1.2. Thặng dư vốn cổ phần,3299,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1.2. Thặng dư vốn cổ phần,3299,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1.2. Thặng dư vốn cổ phần,339,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1.2. Thặng dư vốn cổ phần,1094,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,1.5. Cổ phiếu quỹ,-19,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,1.5. Cổ phiếu quỹ,-19,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,1.5. Cổ phiếu quỹ,-19,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,1.5. Cổ phiếu quỹ,-19,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,1.5. Cổ phiếu quỹ,-19,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,2. Chênh lệch đánh giá lại tài sản theo giá trị hợp lý,-4,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,2. Chênh lệch đánh giá lại tài sản theo giá trị hợp lý,5,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,2. Chênh lệch đánh giá lại tài sản theo giá trị hợp lý,20,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,2. Chênh lệch đánh giá lại tài sản theo giá trị hợp lý,22,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,2. Chênh lệch đánh giá lại tài sản theo giá trị hợp lý,32,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,3. Chênh lệch tỷ giá hối đoái,55,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,3. Chênh lệch tỷ giá hối đoái,63,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,3. Chênh lệch tỷ giá hối đoái,72,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,3. Chênh lệch tỷ giá hối đoái,60,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,3. Chênh lệch tỷ giá hối đoái,72,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,4. Quỹ dự trữ điều lệ,61,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,4. Quỹ dự trữ điều lệ,61,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,4. Quỹ dự trữ điều lệ,61,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,4. Quỹ dự trữ điều lệ,3,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,4. Quỹ dự trữ điều lệ,3,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,7. Lợi nhuận sau thuế chưa phân phối,4696,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,7. Lợi nhuận sau thuế chưa phân phối,5460,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,7. Lợi nhuận sau thuế chưa phân phối,6155,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,7. Lợi nhuận sau thuế chưa phân phối,5440,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,7. Lợi nhuận sau thuế chưa phân phối,5856,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,7.1. Lợi nhuận đã thực hiện,4765,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,7.1. Lợi nhuận đã thực hiện,5534,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,7.1. Lợi nhuận đã thực hiện,6263,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,7.1. Lợi nhuận đã thực hiện,5354,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,7.1. Lợi nhuận đã thực hiện,6025,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,7.2. Lợi nhuận chưa thực hiện,-69,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,7.2. Lợi nhuận chưa thực hiện,-74,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,7.2. Lợi nhuận chưa thực hiện,-108,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,7.2. Lợi nhuận chưa thực hiện,86,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,7.2. Lợi nhuận chưa thực hiện,-169,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,8. Lợi ích cổ đông không nắm quyền kiểm soát,141,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,8. Lợi ích cổ đông không nắm quyền kiểm soát,141,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,8. Lợi ích cổ đông không nắm quyền kiểm soát,141,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,8. Lợi ích cổ đông không nắm quyền kiểm soát,140,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,8. Lợi ích cổ đông không nắm quyền kiểm soát,151,2025-03-14,2025-03-14
+SSIBCKQKDQ42023,TỔNG CỘNG NGUỒN VỐN  (440=300+400),69241,2025-03-14,2025-03-14
+SSIBCKQKDQ12024,TỔNG CỘNG NGUỒN VỐN  (440=300+400),65488,2025-03-14,2025-03-14
+SSIBCKQKDQ22024,TỔNG CỘNG NGUỒN VỐN  (440=300+400),71108,2025-03-14,2025-03-14
+SSIBCKQKDQ32024,TỔNG CỘNG NGUỒN VỐN  (440=300+400),66181,2025-03-14,2025-03-14
+SSIBCKQKDQ42024,TỔNG CỘNG NGUỒN VỐN  (440=300+400),73507,2025-03-14,2025-03-14
