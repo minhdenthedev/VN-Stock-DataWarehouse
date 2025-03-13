@@ -1,0 +1,463 @@
+|stock_code|comp_name|comp_type|charter_capital|contributed_capital|ownership_ratio
+0|BID|Công ty TNHH MTV Quản lý nợ và Khai thác tài sản BIDV (BAMC)|sub|30|30|100%
+1|BID|Công ty TNHH Đầu tư phát triển quốc tế|sub|n/a|n/a|100%
+2|BID|Ngân hàng Đầu tư và Phát triển Campuchia (BIDC)|sub|n/a|n/a|98.5%
+3|BID|Công ty Chứng khoán Campuchia - Việt Nam (CVS)|sub|n/a|n/a|98.5%
+4|BID|Ngân hàng Liên doanh Lào-Việt (LVB)|sub|70|45.5|65%
+5|BID|CTCP Chứng khoán MHB|sub|n/a|n/a|60%
+6|BID|Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam|sub|1,172.77|598.19|51.01%
+7|BID|Công ty Bảo hiểm Campuchia - Việt Nam (CVI)|sub|n/a|n/a|50.24%
+8|BID|Công ty TNHH MTV Cho thuê Tài chính BIDV (BLC)|sub|447.8|n/a|50%
+9|BID|Công ty Liên doanh bảo hiểm Lào Việt (LVI)|sub|3|n/a|33.15%
+10|BID|Công ty Liên doanh Tháp BIDV|aff|262|144.1|55%
+11|BID|Ngân hàng Liên doanh Việt – Nga|aff|n/a|n/a|50%
+12|BID|Công ty TNHH Lương thực Campuchia - Việt Nam (Cavifoods)|aff|n/a|n/a|33%
+13|BID|Công ty TNHH Bảo hiểm nhân thọ BIDV Metlife|aff|1,000|319.9|31.99%
+14|BID|CTCP Cho thuê máy bay Việt Nam (VALC)|aff|n/a|n/a|18.52%
+15|BVH|CTCP Đầu tư Bảo Việt|sub|200|200|100%
+16|BVH|Tổng Công ty Bảo Việt Nhân thọ|sub|2,000|2,000|100%
+17|BVH|Công ty TNHH Quản lý Quỹ Bảo Việt|sub|50|50|100%
+18|BVH|Tổng Công ty Bảo hiểm Bảo Việt|sub|2,000|2,000|100%
+19|BVH|Công ty TNHH Bảo Việt – Âu Lạc|sub|60.66|36|60%
+20|BVH|Công ty Cổ phần Chứng khoán Bảo Việt|sub|722.34|432.81|59.92%
+21|BVH|CTCP Đầu tư SCIC – Bảo Việt (Bảo Việt SCIC)|aff|140|70|50%
+22|BVH|Ngân hàng TMCP Bảo Việt|aff|3,150|1,560|49.52%
+23|BVH|CTCP Trung Nam Phú Quốc|aff|220|107.8|49%
+24|BVH|Công ty Liên doanh Bảo hiểm Bảo Việt - Tokio Marine|aff|300|147|49%
+25|BVH|CTCP Đầu tư và Xây dựng Long Việt (Long Việt)|aff|65.04|29.3|45%
+26|BVH|CTCP Công nghệ thông tin PLT|aff|27|9.45|35%
+27|CTG|Công ty TNHH MTV Quản lý nợ và Khai thác tài sản Ngân hàng TMCP Công thương Việt Nam|sub|120|120|100%
+28|CTG|Công ty TNHH MTV Vàng bạc đá quý Ngân hàng TMCP Công thương Việt Nam|sub|300|300|100%
+29|CTG|Công ty TNHH MTV Chuyển tiền Toàn Cầu - VietinBank|sub|50|50|100%
+30|CTG|Ngân hàng TNHH Công thương Việt Nam tại Lào|sub|1,126.2|1,126.2|100%
+31|CTG|Công ty TNHH MTV Cho thuê tài chính Ngân hàng TMCP Công thương Việt Nam|sub|1,000|100|100%
+32|CTG|Công ty TNHH MTV Quản lý quỹ Ngân hàng TMCP Công thương Việt Nam|sub|950|950|100%
+33|CTG|Công ty cổ phần Chứng khoán Ngân hàng Công thương|sub|1,444.67|1,124.99|77.87%
+34|CTG|Công ty TNHH MTV Bảo hiểm Ngân hàng TMCP Công thương Việt Nam|sub|500|367|73.4%
+35|FPT|Công ty TNHH Phần mềm FPT|sub|377.09|2,000|530.38%
+36|FPT|Công ty TNHH FPT Smart Cloud|sub|||100%
+37|FPT|Công ty TNHH Đầu tư FPT|sub|800|800|100%
+38|FPT|Công ty TNHH Giáo dục FPT|sub|450|450|100%
+39|FPT|Công ty TNHH Hệ thống Thông tin FPT|sub|850|850|100%
+40|FPT|Công ty Cổ phần Viễn thông FPT|sub|4,925.4|2,248.61|45.65%
+41|FPT|Công ty cổ phần Dịch vụ Trực tuyến FPT|sub|184.71|35.16|19.03%
+42|FPT|Công ty cổ phần Bán lẻ Kỹ thuật số FPT|aff|1,184.73|634.01|53.52%
+43|FPT|CTCP SYNNEX FPT|aff|1,188.4|570.4|48%
+44|FPT|CTCP Công nghệ HOMA|aff|n/a|n/a|30.43%
+45|FPT|Công ty Cổ phần Quản lý quỹ đầu tư FPT|aff|110|27.5|25%
+46|FPT|Công ty Cổ phần Chứng khoán FPT|aff|3,059.19|537.78|17.58%
+47|GAS|CTCP Sản xuất Ống thép Dầu khí (PV-PIPE)|sub|1,838.5|1,838.32|99.99%
+48|GAS|Công ty cổ phần CNG Việt Nam|sub|270|151.2|56%
+49|GAS|Công ty cổ phần Bọc ống Dầu khí Việt Nam|sub|216|114.34|52.94%
+50|GAS|Công ty Cổ phần Kinh doanh LPG Việt Nam|sub|400|205.22|51.31%
+51|GAS|Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam|sub|989.98|454.5|45.91%
+52|GAS|Công ty TNHH Khí nhiên liệu giao thông vận tải PVGazprom|aff|200|58|29%
+53|HPG|CTCP Thép Hòa Phát Dung Quất|sub|25,000|25,000|100%
+54|HPG|Công ty TNHH Thép Hòa Phát Hưng Yên|sub|600|600|100%
+55|HPG|Công ty TNHH Tôn Hòa Phát|sub|2,000|2,000|100%
+56|HPG|CTCP Thép Hòa Phát Hải Dương|sub|3,500|3,500|100%
+57|HPG|CTCP Phát triển nông nghiệp Hòa Phát|sub|2,880|2,880|99.99%
+58|HPG|Công ty TNHH Ống thép Hòa Phát|sub|1,500|1,500|99.97%
+59|HPG|CTCP Đầu tư Khoáng sản An Thông|sub|500|500|99.96%
+60|HPG|Công ty TNHH Thiết bị Phụ tùng Hòa Phát|sub|350|350|99.86%
+61|HPG|CTCP Xây dựng & Phát triển Đô thị Hòa Phát|sub|1,300|1,300|99.85%
+62|HPG|Công ty TNHH Điện lạnh Hòa Phát|sub|150|150|99.67%
+63|HPG|CTCP Nội thất Hòa Phát|sub|400|398|99.6%
+64|KDH|Công ty TNHH MTV Hào Khang|sub|123.6|110|100%
+65|KDH|Công ty TNHH MTV Đầu tư Kinh doanh Nhà Khang Phúc|sub|||100%
+66|KDH|Công ty TNHH Đầu tư Phát triển BCCI|sub|||100%
+67|KDH|Công ty TNHH Phát triển Nhà và Xây dựng Hạ tầng Long Phước Điền|sub|140|162.47|99.95%
+68|KDH|Công ty TNHH Kinh doanh Địa ốc Gia Phước|sub|250|264.81|99.9%
+69|KDH|Công ty TNHH Đầu tư Kinh Doanh Bất động sản Saphire|sub|110|99.05|99.9%
+70|KDH|Công ty TNHH Đầu tư Kinh doanh BĐS Kim Phát|sub|100|100|99.9%
+71|KDH|Công ty TNHH Đầu tư và Kinh doanh Địa ốc Trí Kiệt|sub|17|72.98|99.9%
+72|KDH|Công ty TNHH Tư vấn Quốc Tế|sub|90|182.65|99.9%
+73|KDH|Công ty TNHH Đầu tư Thành Phúc|sub|||99.9%
+74|KDH|Công ty TNHH Đô thị Mêga|sub|60|58.48|99.85%
+75|KDH|CTCP Kinh doanh Bất động sản Sài Gòn Mùa Xuân|sub|100|80|99.8%
+76|KDH|CTCP Đầu tư và Kinh doanh Bất động sản Trí Minh|sub|285|297.79|99.8%
+77|KDH|Công ty TNHH Xây dựng và Kinh doanh Nhà Tháp Mười|sub|150|182.45|99.8%
+78|KDH|Công ty TNHH ĐT KD BĐS Bình Trưng|sub|200|199|99.8%
+79|KDH|Công ty TNHH Đầu tư Bất động sản Nguyên Phát|sub|||99.8%
+80|KDH|Công ty TNHH Phát triển Bất động sản Phú Hải|sub|||99.8%
+81|KDH|Công ty TNHH Phát triển Bất động sản Nam Thông|sub|||99.8%
+82|KDH|Công ty TNHH Đầu tư và Kinh doanh Bất động sản Liên Minh|sub|100|99.9|99.7%
+83|KDH|Công ty TNHH Đầu tư và Kinh doanh Bất động sản Song Lập|sub|270|270|99.7%
+84|KDH|CTCP Vi La|sub|50|49.5|99%
+85|KDH|Công ty Cổ phần Việt Hữu Phú|sub|225|222.75|99%
+86|KDH|Công ty TNHH Phát triển Bất động sản Nam Phú|sub|||99%
+87|KDH|CTCP Bất động sản Thủy Sinh|sub|||98.9%
+88|KDH|Công ty TNHH Đầu tư và Kinh Doanh BĐS Không Gian Xanh|sub|280|274.43|98.01%
+89|KDH|Công ty TNHH Đầu tư Địa ốc Minh Phát|sub|||51%
+90|MBB|Công ty TNHH Quản lý nợ và khai thác tài sản Ngân hàng TMCP Quân đội|sub|1,082.69|1,082.69|100%
+91|MBB|Công ty Cổ phần Quản lý quỹ đầu tư MB|sub|323.8|293|90.49%
+92|MBB|Công ty cổ phần Chứng khoán MB|sub|5,728.13|4,373.57|76.35%
+93|MBB|Tổng Công ty cổ phần Bảo hiểm Quân đội|sub|1,985.73|1,363.28|68.65%
+94|MBB|Công ty TNHH Bảo hiểm Nhân thọ MB AGEAS|sub|1,100|671|61%
+95|MBB|Công ty Tài chính TNHH MB Shinsei|sub|n/a|n/a|50%
+96|MBB|CTCP Đầu tư MIC (MIC Invest)|aff|n/a|n/a|47.4%
+97|MBB|CTCP Long Thuận Lộc|aff|151.77|67.37|44.39%
+98|MSN|CTCP Tầm nhìn Ma San|sub|2,873.3|2,873.3|99.9%
+99|MSN|Công ty TNHH MasanConsumerHoldings|sub|||85.7%
+100|MSN|CTCP Masan Nutri-Science|sub|200|161.6|80.8%
+101|MSN|Ngân hàng TMCP Kỹ Thương Việt Nam (Techcombank)|aff|70,450.22|10,486.31|14.88%
+102|MWG|Công ty TNHH MTV Công nghệ thông tin Thế Giới Di Động|sub|||100%
+103|MWG|MWG (Cambodia) Co., Ltd|sub|||99.95%
+104|MWG|CTCP Thế giới Di động|sub|131.26|130.5|99.95%
+105|MWG|CTCP Thương mại Bách Hóa Xanh|sub|||99.95%
+106|MWG|Công ty Cổ phần Thế giới số Trần Anh|sub|249.15|246.32|98.86%
+107|NVL|Công ty TNHH MTV Địa ốc No Va|sub|81.6|81.6|100%
+108|NVL|Công ty TNHH No Va Lucky Palace|sub|100|100|100%
+109|NVL|Công ty TNHH MTV Novaland Agent|sub|20|20|100%
+110|NVL|Công ty TNHH BĐS Khải Hưng|sub|5,179.5|5,179.5|100%
+111|NVL|Công ty TNHH Đầu tư Địa ốc Thành Nhơn|sub|1,320|1,320|100%
+112|NVL|Công ty TNHH Nova An Phú|sub|254.1|254.1|100%
+113|NVL|CTCP BĐS Thịnh Vượng|sub|1,239|1,239|100%
+114|NVL|Công ty TNHH BĐS Bách Hợp|sub|2,153.4|2,153.4|100%
+115|NVL|CTCP Địa ốc Nova Mỹ Đình|sub|5,502|5,501.45|99.99%
+116|NVL|Công ty TNHH BĐS Gia Phú|sub|1,065|1,064.89|99.99%
+117|NVL|Công ty TNHH BĐS Gia Đức|sub|1,243.2|1,243.08|99.99%
+118|NVL|Công ty TNHH Nova Property Management|sub|139|138.9|99.99%
+119|NVL|Công ty TNHH Đầu tư và BĐS Tường Minh|sub|299.7|299.67|99.99%
+120|NVL|Công ty TNHH Nova Sasco|sub|430|429.96|99.99%
+121|NVL|Công ty TNHH Đầu tư và Phát triển Phước Long|sub|470|469.95|99.99%
+122|NVL|Công ty TNHH Đầu tư Địa ốc Nova Saigon Royal|sub|327.4|327.36|99.99%
+123|NVL|Công ty TNHH No Va Thảo Điền|sub|1,203.2|1,202.95|99.98%
+124|NVL|CTCP Nova Nippon|sub|1,079|1,078.78|99.98%
+125|NVL|CTCP Nova Hospitality|sub|20|20|99.98%
+126|NVL|CTCP Thương Mại Đầu Tư BĐS Phú Trí|sub|363|362.92|99.98%
+127|NVL|Công ty TNHH BĐS Nova Riverside|sub|1,115.1|1,114.7|99.97%
+128|NVL|CTCP Nova Richstar|sub|724|723.78|99.97%
+129|NVL|CTCP Đầu tư và Thương mại Nhà Rồng|sub|327.4|327.26|99.96%
+130|NVL|CTCP Kinh doanh BĐS Thái Bình|sub|750|749.7|99.96%
+131|NVL|Công ty TNHH ĐT&PT BĐS 350|sub|2,906.6|2,905.15|99.95%
+132|NVL|CTCP BĐS Đỉnh Phát|sub|954.7|953.84|99.91%
+133|NVL|CTCP Nova Princess Residence|sub|300|299.7|99.9%
+134|NVL|Công ty TNHH Merufa - Nova|sub|125|124.86|99.89%
+135|NVL|Công ty TNHH ĐT&PT BĐS Nova Phúc Nguyên|sub|190.2|189.99|99.89%
+136|NVL|CTCP Cao ốc Phương Đông|sub|166|165.8|99.88%
+137|NVL|CTCP Đầu tư Ngọc Linh Hoa|sub|580|579.01|99.83%
+138|NVL|CTCP Đầu tư BĐS Vương Gia|sub|240.1|239.64|99.81%
+139|NVL|CTCP Địa Ốc Nhật Hoa|sub|510|509.03|99.81%
+140|NVL|CTCP The Prince Residence|sub|189|188.64|99.81%
+141|NVL|Công ty TNHH Nova Rivergate|sub|801.1|799.25|99.77%
+142|NVL|CTCP Địa Ốc Thành Nhơn|sub|1,236.3|1,232.84|99.72%
+143|NVL|CTCP Sài Gòn Gôn|sub|588.6|586.95|99.72%
+144|NVL|CT TNHH ĐT&PT BĐS CQ89|sub|4,902.7|4,880.14|99.54%
+145|NVL|CTCP Đầu tư và Phát triển Quốc tế Thế kỷ 21|sub|2,534.5|2,508.14|98.96%
+146|NVL|Công ty TNHH ĐT&PT BĐS Sun City|sub|1,950|1,927.77|98.86%
+147|NVL|CTCP Ngôi nhà Mega|sub|215|211.99|98.6%
+148|NVL|Công ty TNHH MEGA TIE|sub|191.4|188.7|98.59%
+149|NVL|CTCP Phát triển nhà ở và Hạ tầng Sài Gòn|sub|6|5.88|98%
+150|NVL|Công ty TNHH BĐS Phúc Bình|sub|974.6|952.87|97.77%
+151|NVL|CTCP Nova Festival|sub|184|172.99|94.02%
+152|NVL|Công ty TNHH Nova Nam Á|sub|292|270.7|92.71%
+153|NVL|CTCP Đầu tư Địa ốc No Va|sub|1,295|1,188.29|91.76%
+154|NVL|Công ty TNHH Nova Sagel|sub|367|307.58|83.81%
+155|NVL|CTCP Cảng Phú Định|sub|1,000|834.5|83.45%
+156|NVL|CTCP Khách Sạn Du Lịch Thanh Niên Vũng Tàu|sub|70|45.5|65%
+157|NVL|CTCP Phát triển Đô thị Kỷ Nguyên|sub|1|0.51|51%
+158|NVL|Công ty TNHH ĐT&PT Địa ốc Gia Huy|sub|569|290.19|51%
+159|NVL|CTCP Đầu tư BĐS Phong Điền|sub|96|48.95|50.99%
+160|NVL|CTCP Thạnh Mỹ Lợi|aff|2,162.2|1,202.83|55.63%
+161|NVL|CTCP 234 Thạnh Mỹ Lợi|aff|200|99.8|49.9%
+162|NVL|CTCP Phát Triển Đất Việt|aff|2,020|999.9|49.5%
+163|NVL|CTCP Điện tử và Dịch vụ Công nghiệp Sài Gòn|aff|15|5.66|37.75%
+164|NVL|CTCP Phát triển và Dịch vụ Nhà Bến Thành|aff|80|20|25%
+165|PDR|CTCP ĐK Phú Quốc|sub|710|702.9|99%
+166|PDR|CTCP ĐỊA ỐC SÀI GÒN – KL|sub|268|265.32|99%
+167|PDR|CTCP BẾN THÀNH - LONG HẢI|sub|150|148.5|99%
+168|PDR|CTCP ĐẦU TƯ BĐS NGÔ MÂY|sub|1,120.5|1,053.27|94%
+169|PDR|Công ty TNHH Đầu tư Xây dựng Hạ tầng Kỹ thuật Coinin|sub|270|216|80%
+170|PDR|CTCP ĐẦU TƯ PHÁT TRIỂN KCN PHÁT ĐẠT|sub|3,000|2,040|68%
+171|PDR|CTCP ĐẦU TƯ SERENITY|aff|116.16|74.34|64%
+172|PDR|CTCP ĐẦU TƯ BĐS BIDICI|aff|2,230|1,092.7|49%
+173|PDR|Công ty TNHH Đầu tư Xây dựng Công trình PĐP|aff|300|147|49%
+174|PLX|Công ty Xăng dầu Cao Bằng|sub|||100%
+175|PLX|Công ty Xăng dầu Điện Biên|sub|||100%
+176|PLX|Công ty Xăng dầu Quảng Bình|sub|||100%
+177|PLX|Công ty Xăng dầu Quảng Trị|sub|||100%
+178|PLX|Công ty Xăng dầu Thừa Thiên Huế|sub|||100%
+179|PLX|Công ty TNHH MTV Xăng dầu Quảng Ngãi|sub|||100%
+180|PLX|Công ty Xăng dầu Bình Định|sub|||100%
+181|PLX|Công ty Xăng dầu Phú Khánh|sub|||100%
+182|PLX|Công ty Xăng dầu Bắc Tây Nguyên|sub|||100%
+183|PLX|Công ty Xăng dầu Nam Tây Nguyên|sub|||100%
+184|PLX|Công ty Xăng dầu Lâm Đồng|sub|||100%
+185|PLX|Công ty Xăng dầu Bà Rịa – Vũng Tàu|sub|||100%
+186|PLX|Công ty TNHH MTV Xăng dầu Sông Bé|sub|||100%
+187|PLX|Công ty Xăng dầu Vĩnh Long|sub|||100%
+188|PLX|Công ty TNHH MTV Xăng dầu Đồng Tháp|sub|||100%
+189|PLX|Công ty Xăng dầu Đồng Nai|sub|||100%
+190|PLX|Công ty Xăng dầu Long An|sub|||100%
+191|PLX|Công ty Xăng dầu Tiền Giang|sub|||100%
+192|PLX|Công ty Xăng dầu Bến Tre|sub|||100%
+193|PLX|Công ty Xăng dầu Tây Ninh|sub|||100%
+194|PLX|Công ty TNHH MTV Xăng dầu Tây Nam Bộ|sub|||100%
+195|PLX|Công ty Xăng dầu An Giang|sub|||100%
+196|PLX|Công ty Xăng dầu Trà Vinh|sub|||100%
+197|PLX|Công ty Xăng dầu Cà Mau|sub|||100%
+198|PLX|Công ty TNHH MTV Petrolimex Singapore|sub|||100%
+199|PLX|Công ty TNHH 1 thành viên Petrolimex Lào|sub|||100%
+200|PLX|Tổng Công ty Vận tải thủy Petrolimex-Công ty TNHH MTV|sub|1,500|1,500|100%
+201|PLX|Công ty Xăng dầu B12|sub|||100%
+202|PLX|Công ty Xăng dầu Hà Sơn Bình|sub|||100%
+203|PLX|Công ty Xăng dầu Lào Cai|sub|||100%
+204|PLX|Công ty Xăng dầu Yên Bái|sub|||100%
+205|PLX|Công ty Xăng dầu Tuyên Quang|sub|||100%
+206|PLX|Công ty Xăng dầu Bắc Thái|sub|||100%
+207|PLX|Công ty Xăng dầu Hà Bắc|sub|||100%
+208|PLX|Công ty Xăng dầu Phú Thọ|sub|||100%
+209|PLX|Công ty Xăng dầu Hà Nam Ninh|sub|||100%
+210|PLX|Công ty Xăng dầu Thanh Hoá|sub|||100%
+211|PLX|Công ty Xăng dầu Nghệ An|sub|||100%
+212|PLX|Công ty Xăng dầu Hà Tĩnh|sub|||100%
+213|PLX|Tổng công ty Dịch vụ Xăng dầu Petrolimex|sub|||100%
+214|PLX|Công ty TNHH MTV Xăng dầu KV2|sub|||100%
+215|PLX|Công ty Xăng dầu KV1 – Công ty TNHH MTV|sub|||100%
+216|PLX|Công ty Xăng dầu KV5 – Công ty TNHH MTV|sub|||100%
+217|PLX|Công ty Xăng dầu KV3 – Công ty TNHH MTV|sub|||100%
+218|PLX|Công ty Xăng dầu Thái Bình|sub|||100%
+219|PLX|Công ty Xăng dầu Lai Châu|sub|||100%
+220|PLX|Công ty TNHH Thương mại Dịch vụ Hải Châu|sub|||92.04%
+221|PLX|Cty liên doanh TNHH kho X.Dầu ngoại quan Vân phong|sub||561.85|85%
+222|PLX|Tổng Công ty Hóa dầu Petrolimex-CTCP|sub|807.99|638.89|79.07%
+223|PLX|Công ty Thương mại Dịch vụ Cái Bè|sub|||62.04%
+224|PLX|Công ty TNHH Hóa chất PTN|sub|||60%
+225|PLX|CTCP Nhiên liệu bay Petrolimex|sub|||59%
+226|PLX|CTCP Vận tải Hóa dầu VP|sub|150.76|86.86|57.61%
+227|PLX|Tổng Công ty Gas Petrolimex-CTCP|sub|603.43|316.04|52.37%
+228|PLX|Công ty TNHH Xăng dầu Kiên Giang|sub|100|51|51%
+229|PLX|CTCP Đầu tư và Dịch vụ Hạ tầng Xăng dầu|sub|||51%
+230|PLX|CTCP Tư vấn xây dựng Petrolimex|sub|||51%
+231|PLX|Công ty cổ phần Thiết bị Xăng dầu Petrolimex|sub|49.66|19.58|39.44%
+232|PLX|Công ty Cổ phần Xuất nhập khẩu Petrolimex|sub|151.99||
+233|PLX|Công ty Cổ phần Cơ khí Xăng dầu|sub|72.28||
+234|PLX|Công ty cổ phần Tin học Viễn thông Petrolimex|sub|30||
+235|PLX|Công ty Xăng dầu Hà Giang|sub|||
+236|PLX|Công ty TNHH Castrol BP-PETCO Việt Nam|aff|n/a|n/a|35%
+237|PNJ|Công ty TNHH MTV Thời trang CAF|sub|||100%
+238|PNJ|Công ty TNHH MTV Giám định PNJLAB|sub|||100%
+239|PNJ|Công ty TNHH MTV Chế tác và Kinh doanh Trang sức PNJP|sub|||100%
+240|PNJ|Công ty TNHH MTV Kỷ nguyên Khách hàng CECL|sub|||100%
+241|POW|Công ty CP Thủy điện ĐakĐrink|sub|1,020.69|972.41|95.27%
+242|POW|Công ty Cổ phần Thủy điện Hủa Na|sub|2,352.32|1,898.73|80.72%
+243|POW|Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2|sub|2,878.76|1,709.26|59.37%
+244|POW|Công ty Cổ phần Dịch vụ Kỹ thuật Điện lực Dầu khí Việt Nam|sub|150|76.5|51%
+245|POW|Công ty Cổ phần Máy - Thiết bị Dầu khí|sub|386.39||
+246|POW|Công ty CP Năng lượng Sông Hồng|aff|74.63|32.89|44.07%
+247|POW|CTCP Thủy điện Nậm Chiến (Sơn La)|aff|951.25|292.22|30.72%
+248|POW|CTCP Máy thiết bị Dầu khí Miền Bắc Việt Nam|aff|5.5|0.98|17.84%
+249|REE|Công ty TNHH Thương mại Dịch vụ Xây dựng Tín Hiệu Xanh|sub|||100%
+250|REE|Công ty TNHH Quản lý & Khai thác Bất động sản REE|sub|6|6|100%
+251|REE|CTCP Dịch vụ & Kỹ thuật Cơ điện lạnh R.E.E (REE ME)|sub|150|149.99|99.99%
+252|REE|CTCP Điện máy R.E.E|sub|150|149.99|99.99%
+253|REE|Eastrade International Ltd|sub|||99.99%
+254|REE|Công ty TNHH Thương mại & Dịch vụ RMC|sub|||99.99%
+255|REE|CTCP Đầu tư và Kinh doanh Nước sạch Việt Nam|sub|||99.97%
+256|REE|CTCP Bất động sản R.E.E|sub|650|648|99.97%
+257|REE|CTCP Vĩnh Thịnh|sub|5|4.99|99.96%
+258|REE|CTCP Bất động sản Song Mai|sub|||99.96%
+259|REE|CTCP Hạ tầng và Bất động sản Việt Nam|sub|336|170|50.61%
+260|REE|Công ty cổ phần Thủy điện Thác Bà|sub|635||
+261|REE|Công ty Cổ phần Cấp nước Thủ Đức|sub|85||
+262|REE|Công ty Cổ phần Phát triển điện Nông thôn Trà Vinh|sub|52.8||
+263|REE|CTCP B.O.O Thủ Đức|aff|85|35.7|42%
+264|REE|Công ty cổ phần Thủy điện Sông Ba Hạ|aff|1,242|310.5|25%
+265|REE|Công ty Cổ phần Thủy điện miền Trung|aff|1,552.29|349.73|22.53%
+266|REE|CTCP Cơ điện Đoàn Nhất|aff|64.3|n/a|n/a
+267|REE|CTCP Thủy điện Bình Điền|aff|n/a|n/a|n/a
+268|REE|CTCP Đầu tư và Kinh doanh Nước sạch Sài Gòn (SWIC)|aff|150|n/a|n/a
+269|REE|Công ty cổ phần Thủy điện Thác Mơ|aff|700|n/a|n/a
+270|REE|Công ty Cổ phần Nhiệt điện Phả Lại|aff|3,262.35|n/a|n/a
+271|REE|Công ty cổ phần Thủy điện Srok Phu Miêng IDICO|aff|450|n/a|n/a
+272|REE|Tổng Công ty cổ phần Địa ốc Sài Gòn|aff|600|n/a|n/a
+273|REE|Công ty Cổ phần Nhiệt điện Ninh Bình|aff|128.66|n/a|n/a
+274|REE|Công ty Cổ phần Cấp nước Gia Định|aff|95|n/a|n/a
+275|REE|Công ty Cổ phần Cấp nước Nhà Bè|aff|109|n/a|n/a
+276|REE|Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh|aff|2,362.41|n/a|n/a
+277|SBT|Công ty TNHH MTV Thành Thành Công Gia Lai|sub|||100%
+278|SBT|Công ty TNHH MTV Nhiệt điện Gia Lai|sub|130|130|100%
+279|SBT|Công ty TNHH MTV Nước MIAQUA|sub|1,000,000,000|1,000,000,000|100%
+280|SBT|CTCP Sản xuất Thương mại Cồn Thành Thành Công|sub|210|189|90%
+281|SBT|CTCP Nghiên cứu, Ứng dụng Mía đường Thành Thành Công|sub|||62%
+282|SBT|CTCP Khu công nghiệp Thành Thành Công|aff|n/a|n/a|49%
+283|SBT|CTCP Mía đường Tây Ninh|aff|n/a|n/a|39.2%
+284|SBT|CTCP Đường Nước Trong|aff|224.5|53.77|23.95%
+285|SBT|CTCP Công nghiệp Hóa chất Tây Ninh|aff|n/a|n/a|21.96%
+286|SSI|Công ty TNHH Quản lý quỹ SSI|sub|30|30|100%
+287|SSI|Quỹ đầu tư thành viên SSI (SSIMF)|sub|390|312|80%
+288|SSI|Công ty Cổ phần Tập đoàn PAN|aff|2,163.59|265.83|12.29%
+289|STB|Công ty TNHH MTV Cho thuê Tài chính Ngân hàng Sài Gòn Thương Tín (SBL)|sub|300|300|100%
+290|STB|Công ty TNHH Quản lý và khai thác nợ Tài sản Ngân hàng Sài gòn Thương Tín (SBA)|sub|500|500|100%
+291|STB|Công ty Kiều hối Ngân hàng Sài Gòn Thương Tín (SBR)|sub|15|15|100%
+292|STB|Công ty TNHH MTV Vàng bạc đá quý Sài Gòn Thương Tín (SBJ)|sub|250|250|100%
+293|STB|Sacombank Cambodia Plc|sub|783.3|783.3|100%
+294|STB|Chi nhánh Lào|sub|780|780|100%
+295|VCB|Công ty TNHH MTV Cho thuê tài chính Vietcombank|sub|500|500|100%
+296|VCB|Công ty TNHH Chứng khoán Vietcombank|sub|700|700|100%
+297|VCB|Công ty TNHH Tài chính Việt Nam - Hồng Kông|sub|116.9|116.9|100%
+298|VCB|Công ty TNHH MTV Kiều hối Vietcombank|sub|30|30|100%
+299|VCB|Ngân hàng TNHH Ngoại thương Việt Nam tại Lào|sub|1,820.4|1,820.4|100%
+300|VCB|Công ty Chuyển tiền Vietcombank|sub|234.36|205.06|87.5%
+301|VCB|Công ty TNHH Vietcombank Tower 198|sub|282.36|197.65|70%
+302|VCB|Công ty TNHH Vietcombank-Bonday-Ben Thanh|aff|676.17|410.36|52%
+303|VCB|Công ty Liên doanh Quản lý quỹ đầu tư chứng khoán Vietcombank|aff|265|135.15|51%
+304|VCB|Công ty TNHH Bảo hiểm nhân thọ Vietcombank-Cardiff|aff|600|270|45%
+305|VCB|Công ty Liên doanh Vietcombank - Bonday|aff|69.4|11.11|16%
+306|VHM|CTCP Đầu tư và Phát triển Sinh Thái|sub|2,347|2,347|100%
+307|VHM|Công ty TNHH Bất động sản Tây Tăng Long|sub|300|300|100%
+308|VHM|CTCP Đầu tư và Phát triển Địa ốc Thành phố Hoàng Gia|sub|328.75|328.75|100%
+309|VHM|Công ty TNHH Metropolis Hà Nội|sub|960|960|100%
+310|VHM|Công ty TNHH Phát triển Bất động sản Lighthouse|sub|3,054|3,054|100%
+311|VHM|Công ty TNHH Phát triển Bất động sản Lighthouse 1|sub|3,054|3,054|100%
+312|VHM|CTCP  Đầu tư Khu Công nghiệp Vinhomes|sub|18,500|18,500|100%
+313|VHM|CTCP Đầu tư Xây dựng Thái Sơn|sub|13,500|13,500|100%
+314|VHM|CTCP Phát triển Thành Phố Xanh|sub|6,690|6,690|100%
+315|VHM|Công Ty TNHH Thương mại Đầu tư và Phát triển Thiên Niên Kỷ|sub|1,561|1,561|100%
+316|VHM|CTCP Delta|sub|1,000|1,000|100%
+317|VHM|CTCP Muối Cam Ranh|sub|600|600|100%
+318|VHM|CTCP Bất động sản SV Tây Hà Nội 2|sub|4,100|4,100|100%
+319|VHM|CTCP Đầu tư Xây dựng Đại An|sub|1,000|1,000|100%
+320|VHM|CTCP Kinh doanh và phát triển Sinh Thái|sub|653|653|100%
+321|VHM|CTCP Du lịch Cá Tầm|sub|63.75|63.75|100%
+322|VHM|CTCP Đầu tư Hiệp Thành Công|sub|54.11|54.11|100%
+323|VHM|Công ty TNHH MTV Đá trắng Bảo Lai|sub|1,355|1,355|100%
+324|VHM|Công ty TNHH Đá Cẩm Thạch An Phú|sub|295.4|295.4|100%
+325|VHM|CTCP Đầu tư Vạn Khoa|sub|169.2|169.2|100%
+326|VHM|CTCP Khoáng sản Phan Thanh|sub|150.5|150.5|100%
+327|VHM|CTCP Đá cẩm thạch Dốc Thẳng|sub|95.8|95.8|100%
+328|VHM|Công ty TNHH MTV Khai thác khoáng sản Bảo Lai Lục Yên|sub|57.5|57.5|100%
+329|VHM|CTCP Phát triển và Đầu tư xây dựng Vincons|sub|100|100|100%
+330|VHM|CTCP Thương mại và Đầu tư Sơn Thái|sub|449.25|449.21|99.99%
+331|VHM|Công ty CP Đầu tư Du lịch Cần Giờ|sub|32,561|32,557.74|99.99%
+332|VHM|CTCP Đầu tư Phát triển Newland|sub|1,221.74|1,220.76|99.92%
+333|VHM|Công ty TNHH Phát triển Bất động sản Vịnh Xanh|sub|3,882|3,874.24|99.8%
+334|VHM|Công ty TNHH Phát triển Bất động sản Vịnh Xanh 1|sub|4,334|4,325.33|99.8%
+335|VHM|Công Ty TNHH Đầu Tư Và Phát Triển Đô Thị Gia Lâm|sub|15,998|15,900.41|99.39%
+336|VHM|CTCP Đầu tư Phát triển BĐS Trường Thịnh|sub|570|564.3|99%
+337|VHM|CTCP Phát triển xây dựng Vincons Windows|sub|100|99|99%
+338|VHM|Công ty TNHH Đô thị Đại học Quốc tế Berjaya Việt Nam|sub|12,000|11,748|97.9%
+339|VHM|CTCP Đầu tư Bảo Lai|sub|2,202.4|2,124.88|96.48%
+340|VHM|CTCP Giải pháp Công nghệ thông tin và Hạ tầng truyền dẫn VinITIS|sub|50|39.5|79%
+341|VHM|Công ty CP Tư vấn Đầu tư và đầu tư Việt Nam|sub|60|42|70%
+342|VHM|Công ty TNHH Trung tâm Tài chính Việt Nam Berjaya|sub|2,976|2,008.8|67.5%
+343|VIC|Công ty TNHH MTV Thương mại Đầu tư và Phát triển Thời Đại|sub|6,000|6,000|100%
+344|VIC|CTCP Kinh doanh và Thương mại Dịch vụ Vinpro|sub|||100%
+345|VIC|Công ty TNHH Một thành viên Vinschool|sub|||100%
+346|VIC|Công ty TNHH Dịch vụ Bảo vệ Vincom|sub|2|2|100%
+347|VIC|Công ty TNHH Việt Nam Grand Prix|sub|||100%
+348|VIC|CTCP VinWonder|sub|||100%
+349|VIC|Công ty TNHH Đầu tư Kinh doanh và Thương mại P&S|sub|||100%
+350|VIC|Công ty TNHH Dịch vụ Vận tải Sinh thái Vinbus|sub|||100%
+351|VIC|Công ty cổ phần Phát triển đô thị Nam Hà Nội|sub|2,000|2,000|100%
+352|VIC|CTCP Bệnh viện Đa khoa Quốc tế Vinmec|sub|1,200|1,200|100%
+353|VIC|Công ty TNHH Vinpearl Travel|sub|||99.97%
+354|VIC|Công ty Cổ phần Vinpearl|sub|||99.97%
+355|VIC|Công ty TNHH Giáo dục và Đào tạo VinAcademy|sub|||99.37%
+356|VIC|CTCP Bất động sản Xavinco|sub|285|274.3|96.22%
+357|VIC|CTCP Đầu Tư Và Phát Triển Du Lịch Phúc An|sub|||95%
+358|VIC|Công ty Cổ phần Cảng Nha Trang|sub|245.39|225.5|91.89%
+359|VIC|CTCP  Đầu tư Khu Công nghiệp Vinhomes|sub|18,500|16,650|90%
+360|VIC|CTCP Kinh doanh Bất động sản MV Việt Nam|sub|||89.84%
+361|VIC|Công ty cổ phần Đầu tư và Phát triển Đô thị Sài Đồng|sub|1,199.96|1,074|89.5%
+362|VIC|Công ty TNHH Phát triển Công viên Trung tâm|sub|||89.5%
+363|VIC|CTCP Giải pháp và Dịch vụ Công nghệ Vantix|sub|||84%
+364|VIC|Công ty cổ phần Trung tâm Hội chợ Triển lãm Việt Nam|sub|1,666.04|1,388.11|83.32%
+365|VIC|Công ty Vingroup Hàn Quốc|sub|||80%
+366|VIC|Công ty TNHH Triển khai Hệ thống Phần mềm Vinsoftware|sub|||80%
+367|VIC|Công ty TNHH Vintech Ventures|sub|||80%
+368|VIC|Công ty TNHH Vingroup Ru|sub|||80%
+369|VIC|Công ty TNHH Vingroup USA|sub|||80%
+370|VIC|Công ty TNHH Vingroup Nhật Bản|sub|||80%
+371|VIC|Công ty TNHH Sản xuất và Kinh doanh Phần mềm HMS|sub|||80%
+372|VIC|Công ty TNHH Dịch vụ An ninh mạng VINCSS|sub|||80%
+373|VIC|CTCP Phát Triển Công nghệ VinTech|sub|||80%
+374|VIC|Công ty TNHH Vinpearl Travel Ru|sub|||80%
+375|VIC|CTCP Hàng Không Vinpearl Air|sub|||79.97%
+376|VIC|CTCP VINDFS|sub|||79.97%
+377|VIC|CTCP Đầu tư và Phát triển Địa ốc Thành phố Hoàng Gia|sub|328.75|257.77|78.41%
+378|VIC|CTCP Kinh doanh và Phát triển thương mại An Thịnh|sub|||77.58%
+379|VIC|CTCP Phát triển Thành Phố Xanh|sub|6,690|5,033.56|75.24%
+380|VIC|CTCP Đầu tư Xây dựng Thái Sơn|sub|13,500|10,156.05|75.23%
+381|VIC|Công ty CP Đầu tư và Phát triển Làng Vân|sub|100|74.28|74.28%
+382|VIC|CTCP Đầu tư và Phát triển Sinh Thái|sub|2,347|1,732.79|73.83%
+383|VIC|Công ty CP Đô thị Du lịch Cần Giờ|sub|||73.79%
+384|VIC|CTCP Delta|sub|1,000|737.3|73.73%
+385|VIC|Công ty TNHH Metropolis Hà Nội|sub|960|707.14|73.66%
+386|VIC|Công ty TNHH Đô thị Đại học Quốc tế Berjaya Việt Nam|sub|12,000|8,839.2|73.66%
+387|VIC|Công Ty TNHH Thương mại Đầu tư và Phát triển Thiên Niên Kỷ|sub|1,561|1,149.83|73.66%
+388|VIC|CTCP Phát triển GS Củ Chi|sub|||73.59%
+389|VIC|Công ty cổ phần Vinhomes|sub|41,074.12|30,192.28|73.51%
+390|VIC|Công ty TNHH Kinh doanh Bất động sản Phú Gia|sub|500|361.8|72.36%
+391|VIC|Công ty TNHH Xalivico|sub|500|356.05|71.21%
+392|VIC|CTCP Đầu tư Kinh doanh Bất động sản Thăng Long|sub|50|35.19|70.37%
+393|VIC|Công ty TNHH Làng Hoa Thụy Khuê|sub|||69.96%
+394|VIC|Công ty TNHH Bất động sản Tây Tăng Long|sub|300|198.87|66.29%
+395|VIC|CTCP Sách Việt Nam|sub|679.1|443.64|65.33%
+396|VIC|Công Ty TNHH Đầu Tư Và Phát Triển Đô Thị Gia Lâm|sub|15,998|10,040.34|62.76%
+397|VIC|CTCP Nghiên cứu và Sản xuất Vinsmart|sub|||62.03%
+398|VIC|Vingroup Global Pte. Ltd.|sub|||62.03%
+399|VIC|CTCP VinID Pay|sub|||60.97%
+400|VIC|CTCP VINFA|sub|||59.39%
+401|VIC|CTCP Vincom Retail|sub|14,172|8,068.12|56.86%
+402|VIC|Công ty TNHH Vincom Retail Miền Nam|sub|||56.86%
+403|VIC|Công ty TNHH Vincom Retail Miền Bắc|sub|||56.86%
+404|VIC|CTCP Đầu tư Bất động sản Hà Thành|sub|||56.86%
+405|VIC|CTCP Đầu tư và Phát triển Đô thị Suối Hoa|sub|||55.31%
+406|VIC|Công ty CP Tư vấn Đầu tư và đầu tư Việt Nam|sub|60|31.06|51.76%
+407|VIC|CTCP OneID|sub|||51.22%
+408|VIC|CTCP One Mount Group|sub|||51.22%
+409|VIC|CTCP Phát triển Thương mại Dịch vụ Adayroi|sub|||51.22%
+410|VIC|Công ty TNHH Sản Xuất và Kinh Doanh Vinfast|sub||268.5|51.15%
+411|VIC|Công ty TNHH Kinh doanh thương mại và Dịch vụ Vinfast|sub|||51.15%
+412|VIC|Vinfast Engineering Australia Pty Ltd|sub|||51.15%
+413|VIC|Vinfast Germany GmbH|sub|||51.15%
+414|VIC|Công ty TNHH Trung tâm Tài chính Việt Nam Berjaya|sub|2,976|1,511.21|50.78%
+415|VIC|CTCP Vinfast Leasing|sub|||50.64%
+416|VIC|Iot & Mobility Y Commerce, S.L.|sub|||40.8%
+417|VIC|Mundo Reader S.L|sub|||40.8%
+418|VIC|Luarna Ediciones S.L.|sub|||40.8%
+419|VIC|Deep Technology & Engineering Services, S.L.|sub|||40.8%
+420|VIC|Contact Services For Satisfaction, S.L.|sub|||40.8%
+421|VIC|Educación Y Robótica S.L.|sub|||40.8%
+422|VIC|3D Printing & Printers|sub|||40.8%
+423|VIC|BQ-Mundo Rader, Unipessoal Lda|sub|||40.8%
+424|VIC|Mundo Reader France S.A.R.L|sub|||40.8%
+425|VIC|Mundo Reader GmbH|sub|||40.8%
+426|VIC|Mundo Reader S.R.L.|sub|||40.8%
+427|VIC|Smart European Devices Limited|sub|||40.8%
+428|VIC|Xibantronics Trading Company Ltd.|sub|||40.8%
+429|VIC|Fundación Para La Educación Y El Desarrollo Tecnológico|sub|||40.8%
+430|VIC|Inteligencia Operacional Para La Ingeniería, S.L.|sub|||40.48%
+431|VIC|Công ty TNHH Dịch vụ và Kinh doanh Vinfast|sub|||33.52%
+432|VIC|Marcha Technology S.L.|sub|||24.48%
+433|VIC|Công ty Cổ phần Thức ăn Chăn nuôi Việt Thắng|aff|418.13|167.25|40%
+434|VIC|CTCP Giống vật nuôi Hà Nội|aff|n/a|n/a|37.63%
+435|VIC|CTCP In sách Việt Nam|aff|n/a|n/a|35%
+436|VIC|CTCP Du lịch Phú Quốc|aff|n/a|n/a|30%
+437|VJC|VIETJET AIR IVB No.I LIMITED|sub|||100%
+438|VJC|VIETJET AIR IVB No.II LIMITED|sub|||100%
+439|VJC|VIETJET AIR SINGAPORE PTE., LTD|sub|||100%
+440|VJC|VIETJET AIR IRELAND No.I LIMITED|sub|||100%
+441|VJC|SKYMATE LIMITED|sub|||100%
+442|VJC|Công ty Cổ phần VietJetAir Cargo|sub|10|9|90%
+443|VJC|NHÀ GA QUỐC TẾ CAM RANH|aff|n/a|n/a|10%
+444|VJC|Thai VietJet Air Joint Stock Company Limited|aff|n/a|n/a|9%
+445|VNM|Công ty TNHH MTV Bò sữa Thống Nhất Thanh Hóa|sub|600|600|100%
+446|VNM|Driftwood Dairy Holdings Corporation|sub|10|10|100%
+447|VNM|Vinamilk Europe Spóstka Z Organiczona Odpowiedzialnoscia|sub|||100%
+448|VNM|Angkor Dairy Holdings Corporation|sub|||100%
+449|VNM|Công ty TNHH MTV Bò sữa Việt Nam|sub|840|840|100%
+450|VNM|CTCP Đường Việt Nam|sub|||65%
+451|VNM|Lao-Jagro Development XiengKhouang Co., Ltd.,|sub|||51%
+452|VNM|CTCP Chế biến Dừa Á Châu|aff|n/a|n/a|25%
+453|VNM|Công ty TNHH Miraka|aff|74.8|17.06|22.81%
+454|VNM|CTCP APIS|aff|n/a|n/a|20%
+455|VPB|Công ty TNHH Quản lý Tài sản Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank AMC)|sub|115|115|100%
+456|VPB|Công ty cổ phần Chứng khoán VPBANK|sub|15,000|14,993|99.95%
+457|VPB|Công ty cổ phần bảo hiểm OPES|sub|550|644|98%
+458|VPB|Công ty Tài chính TNHH MTV Ngân hàng Việt Nam Thịnh Vượng|sub|10.93|5.58|50%
+459|VRE|Công ty TNHH Vincom Retail Miền Bắc|sub|||100%
+460|VRE|Công ty TNHH Vincom Retail Miền Nam|sub|||100%
+461|VRE|CTCP Đầu tư và Phát triển Đô thị Suối Hoa|sub|||97.27%
