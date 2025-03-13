@@ -1,7 +1,7 @@
 {
 	"folders": {},
 	"connections": {
-		"postgres-jdbc-1958407feeb-656516acbb1bd93": {
+		"postgres-jdbc-1958d827b80-30485dd1e5ff6728": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
 			"name": "postgres",
@@ -12,7 +12,7 @@
 				"database": "postgres",
 				"url": "jdbc:postgresql://localhost:5432/postgres",
 				"configurationType": "MANUAL",
-				"home": "/usr/lib/postgresql/15",
+				"home": "/usr/lib/postgresql/17",
 				"type": "dev",
 				"closeIdleConnection": true,
 				"provider-properties": {
@@ -23,6 +23,7 @@
 			}
 		}
 	},
+	"virtual-models": {"postgres-jdbc-1958d827b80-30485dd1e5ff6728":{"vnstock_dw":{"public":{":fact_financial_statement":{"foreign-keys":[{"entity":null,"constraint":null,"attributes":{"stock_code":"stock_code"}},{"entity":null,"constraint":null,"attributes":{"measure_time":"date_key"}}]}}}}},
 	"connection-types": {
 		"dev": {
 			"name": "Development",
