@@ -1,16 +1,16 @@
 {
 	"folders": {},
 	"connections": {
-		"postgres-jdbc-1958d827b80-30485dd1e5ff6728": {
+		"postgres-jdbc-195a2f8e327-3f46a0cb85a5363": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "postgres",
+			"name": "vn_stock_dw",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
 				"port": "5432",
-				"database": "postgres",
-				"url": "jdbc:postgresql://localhost:5432/postgres",
+				"database": "vn_stock_dw",
+				"url": "jdbc:postgresql://localhost:5432/vn_stock_dw",
 				"configurationType": "MANUAL",
 				"home": "/usr/lib/postgresql/17",
 				"type": "dev",
@@ -23,7 +23,6 @@
 			}
 		}
 	},
-	"virtual-models": {"postgres-jdbc-1958d827b80-30485dd1e5ff6728":{"vnstock_dw":{"public":{":fact_financial_statement":{"foreign-keys":[{"entity":null,"constraint":null,"attributes":{"stock_code":"stock_code"}},{"entity":null,"constraint":null,"attributes":{"measure_time":"date_key"}}]}}}}},
 	"connection-types": {
 		"dev": {
 			"name": "Development",

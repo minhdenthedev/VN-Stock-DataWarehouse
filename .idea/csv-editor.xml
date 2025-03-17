@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/raw/enterprises.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/raw/enterprises/enterprises.csv">
           <value>
             <Attribute>
@@ -38,10 +45,52 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/data/raw/industries.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/raw/niem_yet.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/raw/stock_codes_list.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/raw/sub_companies.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/data/raw/subcompanies.csv">
           <value>
             <Attribute>
               <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/raw/vn30_list.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/vietstock_crawler/processed_data/processed_balance/ACB_processed_income_statement.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
