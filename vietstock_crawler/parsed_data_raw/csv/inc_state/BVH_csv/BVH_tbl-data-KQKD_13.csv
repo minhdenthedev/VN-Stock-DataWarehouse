@@ -1,0 +1,91 @@
+﻿BVH,Q1/2009,Q2/2009,Q3/2009,Q4/2009,Q1/2010
+Giai đoạn,01/01-31/03,01/04-30/06,01/07-30/09,01/10-31/12,01/01-31/03
+Hợp nhất,Hợp nhất,Hợp nhất,Hợp nhất,Hợp nhất,Hợp nhất
+Kiểm toán,Chưa kiểm toán,Chưa kiểm toán,Chưa kiểm toán,Chưa kiểm toán,Soát xét
+Công ty kiểm toán,,,,,EY
+Ý kiến kiểm toán,,,,,Chấp nhận toàn phần
+,,,,,
+1. Doanh thu phí bảo hiểm (01= (01.1+01.2-01.3),,,,,
+- Thu phí bảo hiểm gốc,"1,722",,,"1,962","1,885"
+- Thu phí nhận tái bảo hiểm,25,,,47,17
+- Tăng (giảm) dự phòng phí bảo hiểm gốc và nhận tái bảo hiểm,,,,,
+2. Phí nhượng tái bảo hiểm,,,,,
+- Phí nhượng tái bảo hiểm,246,,,284,172
+- Tăng (giảm) dự phòng phí nhượng tái bảo hiểm,,,,,
+Các khoản giảm trừ,258,,,296,181
+- Giảm phí Bảo hiểm,0,,,1,0
+- Hoàn phí Bảo hiểm,12,,,11,9
+- Các khoản giảm trừ khác,0,,,0,0
+"Tăng (giảm) dự phòng phí, dự phòng toán học",98,,,921,319
+3. Doanh thu phí bảo hiểm thuần (03=01-02),,,,,
+4. Hoa hồng nhượng tái bảo hiểm và doanh thu khác HĐKDBH (04=04.1+04.2),,,,,
+- Thu hoa hồng nhượng tái Bảo hiểm,32,,,50,32
+- Thu khác hoạt động kinh doanh Bảo hiểm,1,,,1,1
++ Thu khác nhận tái Bảo hiểm,0,,,0,0
++ Thu khác nhượng tái bảo hiểm,0,,,0,0
+"+ Thu khác (giám định, đại lý,…)",1,,,1,1
+5. Doanh thu thuần HĐKD BH (10=03+04),"1,424",,,844,"1,434"
+5.1. Doanh thuần BH và CCDV,,,,,
+6. Chi bồi thường,804,,,"1,033",895
+- Tổng chi bồi thường,,,,,
+"+ Chi bồi thường bảo hiểm gốc, trả tiền bảo hiểm",857,,,"1,174",962
+"+ Chi bồi thường nhận tái bảo hiểm, trả tiền bảo hiểm",7,,,18,18
+- Các khoản giảm trừ,60,,,158,86
++ Thu đòi người thứ ba bồi hoàn,2,,,4,1
++ Thu hàng đã xử lý bồi thường 100%,0,,,5,12
+7. Thu bồi thường nhượng tái bảo hiểm,57,,,149,73
+Tăng (giảm) dự phòng toán học (dành riêng BVH),,,,,
+8. Tăng (giảm) dự phòng bồi thường bảo hiểm gốc và nhận tái bảo hiểm,,,,,
+9. Tăng (giảm) dự phòng bồi thường nhượng tái bảo hiểm,,,,,
+9.1. Tăng (giảm) dự phòng bồi thường,35,,,17,99
+10. Tổng chi bồi thường bảo hiểm (15=11-12+13-14),,,,,
+11. Tăng (giảm) dự phòng dao động lớn,28,,,25,28
+Chi bồi thường từ dự phòng dao động lớn,0,,,0,0
+12. Chi khác hoạt động kinh doanh bảo hiểm,168,,,278,214
+- Chi hoa hồng bảo hiểm,149,,,214,177
+- Chi phí khác hoạt động kinh doanh bảo hiểm,,,,,
++ Chi khác hoạt động kinh doanh bảo hiểm gốc,158,,,259,195
+• Chi giám định tổn thất,3,,,-28,0
+• Chi đòi người thứ 3,0,,,0,0
+• Chi xử lý hàng bồi thường 100%,0,,,0,0
+• Chi đánh giá rủi ro của đối tượng bảo hiểm,5,,,0,0
+"• Chi đề phòng hạn chế rủi ro, tổn thất",0,,,30,9
+• Chi khác,0,,,43,9
++ Chi khác hoạt động kinh doanh nhận tái bảo hiểm,6,,,10,4
+• Chi hoa hồng nhận tái bảo hiểm,6,,,10,4
+• Chi đánh giá rủi ro của đối tượng bảo hiểm,0,,,0,0
+• Chi khác,0,,,0,0
++ Chi hoạt động nhượng tái bảo hiểm,3,,,10,15
++ Chi phí trực tiếp kinh doanh hoạt động khác,0,,,0,0
+13. Tổng chi phí hoạt động kinh doanh bảo hiểm,"1,034",,,"1,354","1,235"
+"13.1. Giá vốn cung cấp hàng hóa, dịch vụ khác",,,,,
+14. Lợi nhuận gộp hoạt động kinh doanh bảo hiểm,390,,,-510,198
+"14.1. Lợi nhuận gộp cung cấp hàng hóa, dịch vụ khác",,,,,
+14.2. Lợi nhuận thuần hoạt động kinh doanh bảo hiểm,32,,,-834,-206
+15. Doanh thu kinh doanh bất động sản đầu tư,,,,,
+16. Giá vốn bất động sản đầu tư,,,,,
+17. Lợi nhuận từ hoạt động đầu tư bất động sản (22=20-21),,,,,
+18. Doanh thu hoạt động tài chính,634,,,853,727
+19. Chi hoạt động tài chính,334,,,-522,220
+- Dự phòng toán học trích lãi từ đầu tư,334,,,-853,220
+- Dự phòng chia lãi,0,,,0,0
+- Chi khác hoạt động tài chính,0,,,332,0
+20. Lợi nhuận gộp hoạt động tài chính,300,,,"1,375",506
+Chi phí bán hàng,22,,,37,23
+21. Chi phí quản lý doanh nghiệp,336,,,286,381
+22. Lợi nhuận thuần từ hoạt động kinh doanh,,,,,
+23. Thu nhập khác,5,,,-206,3
+24. Chi phí  khác,2,,,-6,2
+25. Lợi nhuận khác,4,,,-201,1
+Phần lợi nhuận/lỗ từ công ty liên kết liên doanh,-21,,,-3,11
+26. Tổng lợi nhuận kế toán trước thuế,314,,,337,312
+Các khoản điều chỉnh tăng (+) hoặc giảm (-) lợi nhuận để xác định lợi nhuận chịu thuế TNDN,0,,,0,0
+Tổng lợi nhuận trước thuế thu nhập doanh nghiệp,314,,,337,312
+Dự phòng đảm bảo cân đối,1,,,0,1
+Lợi nhuận chịu thuế thu nhập doanh nghiệp,313,,,337,311
+27. Chi phí thuế thu nhập hiện hành,28,,,86,66
+28. Chi phí thuế thu nhập hoãn lại,0,,,0,0
+29. Lợi nhuận sau thuế thu nhập doanh nghiệp,286,,,251,246
+30. Lợi ích của cổ đông thiểu số,8,,,1,13
+31. Lợi nhuận sau thuế của cổ đông của Công ty mẹ,278,,,250,233
+32. Lãi cơ bản trên cổ phiếu.,0,,,0,378

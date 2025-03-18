@@ -1,0 +1,31 @@
+﻿MBB,Q1/2020,Q2/2020,Q3/2020,Q4/2020,Q1/2021
+Giai đoạn,01/01-31/03,01/04-30/06,01/07-30/09,01/10-31/12,01/01-31/03
+Hợp nhất,Hợp nhất,Hợp nhất,Hợp nhất,Hợp nhất,Hợp nhất
+Kiểm toán,Chưa kiểm toán,Chưa kiểm toán,Chưa kiểm toán,Chưa kiểm toán,Chưa kiểm toán
+Công ty kiểm toán,,,,,
+Ý kiến kiểm toán,,,,,
+,,,,,
+1. Thu nhập lãi và các khoản thu nhập tương tự,"8,080","7,792","8,159","8,736","9,013"
+2. Chi phí lãi và các chi phí tương tự,"3,385","3,168","2,995","2,942","3,061"
+I. Thu nhập lãi thuần,"4,695","4,624","5,165","5,794","5,952"
+3. Thu nhập từ hoạt động dịch vụ,"1,616","1,961","2,011","2,640","2,569"
+4. Chi phí hoạt động dịch vụ,872,"1,016","1,216","1,550","1,503"
+II. Lãi/lỗ thuần từ hoạt động dịch vụ,745,945,796,"1,090","1,066"
+III. Lãi/lỗ thuần từ hoạt động kinh doanh ngoại hối và vàng,159,181,178,268,237
+IV. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh,,,,,0
+V. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư,498,217,156,81,691
+5. Thu nhập từ hoạt động khác,388,700,609,475,"1,217"
+6. Chi phí hoạt động khác,147,161,183,,0
+VI. Lãi/lỗ thuần từ hoạt động khác,240,539,425,475,"1,217"
+"VII. Thu nhập từ góp vốn, mua cổ phần",1,68,16,7,31
+VIII. Chi phí hoạt động,"2,051","2,434","2,836","3,235","2,804"
+IX. Lợi nhuận thuần từ hoạt động kinh doanh trước chi phí dự phòng rủi ro tín dụng (I+II+III+IV+V+VI+VII-VIII),"4,288","4,140","3,899","4,479","6,389"
+X. Chi phí dự phòng rủi ro tín dụng,"2,093","1,217",884,"1,925","1,809"
+XI. Tổng lợi nhuận trước thuế (IX-X),"2,196","2,923","3,015","2,554","4,580"
+7. Chi phí thuế TNDN hiện hành,407,543,587,553,915
+8. Chi phí thuế TNDN hoãn lại,5,-9,5,-9,-2
+XII. Chi phí thuế TNDN,413,533,592,544,914
+XIII. Lợi nhuận sau thuế (XI-XII),"1,783","2,390","2,423","2,010","3,666"
+XIV. Lợi ích của cổ đông thiểu số,71,127,66,80,114
+XV. Lợi nhuận sau thuế của cổ đông của Ngân hàng mẹ (XIII-XIV),"1,712","2,263","2,357","1,931","3,553"
+Lãi cơ bản trên cổ phiếu (BCTC),725,,,,"1,272"
