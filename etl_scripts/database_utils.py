@@ -1,5 +1,8 @@
+import os
+
 import pandas as pd
 import psycopg2
+from utils import BASE_DIR
 
 DB_CONFIG = {
     "host": "localhost",
@@ -66,6 +69,50 @@ def insert_industries():
         conn.commit()
 
         print(f"Successfully inserted {len(data_tuples)} rows into dim_enterprises_industries")
+
+    except Exception as e:
+        print(f"Error: {e}")
+    finally:
+        cur.close()
+        conn.close()
+
+
+def insert_dates_transformed(dates):
+    conn = psycopg2.connect(**DB_CONFIG)
+    cur = conn.cursor()
+    try:
+        # Convert dataframe to list of tuples
+        df = pd.DataFrame({"date_key": dates})
+        try:
+            df['date_key'] = pd.to_datetime(df['date_key'], format="%Y-%m-%d %H:%M:%S")
+        except Exception as e:
+            df['date_key'] = pd.to_datetime(df['date_key'], format="%Y-%m-%d")
+
+        # Calculate date attributes
+        df["year"] = df["date_key"].dt.year
+        df["quarter"] = df["date_key"].dt.quarter
+        df["month"] = df["date_key"].dt.month
+        df["week"] = df["date_key"].dt.isocalendar().week
+        df["day_of_week"] = df["date_key"].dt.dayofweek + 1  # 1=Monday, 7=Sunday
+
+        data_tuples = [tuple(x) for x in df.to_numpy()]
+
+        # Create INSERT query dynamically
+        columns = ', '.join(df.columns)
+        values_placeholder = ', '.join(['%s'] * len(df.columns))
+        insert_query = f"""
+            INSERT INTO dim_date ({columns}) 
+            VALUES ({values_placeholder})
+            ON CONFLICT (date_key) 
+            DO UPDATE SET 
+                {', '.join([f"{col} = EXCLUDED.{col}" for col in df.columns if col != "date_key"])}
+            """
+
+        # Execute batch insert
+        cur.executemany(insert_query, data_tuples)
+        conn.commit()
+
+        print(f"Successfully inserted {len(data_tuples)} rows into dim_date")
 
     except Exception as e:
         print(f"Error: {e}")
@@ -156,7 +203,7 @@ def insert_enterprise():
 
 
 def insert_sub_companies():
-    csv_path = "/home/m1nhd3n/Works/DataEngineer/DataFlow2025Task2/data/raw/sub_companies.csv"
+    csv_path = os.path.join(BASE_DIR, "data/raw/sub_companies.csv")
     # Connect to PostgreSQL
     conn = psycopg2.connect(**DB_CONFIG)
     cur = conn.cursor()
@@ -195,6 +242,74 @@ def insert_sub_companies():
 
     except Exception as e:
         print(f"Error: {e}")
+    finally:
+        cur.close()
+        conn.close()
+
+
+def insert_transaction_hist():
+    df = pd.read_csv(os.path.join(BASE_DIR, "data/transformed/transaction_history.csv"),
+                     index_col=False)
+    df = df.fillna(-1)
+    conn = psycopg2.connect(**DB_CONFIG)
+    cur = conn.cursor()
+    try:
+        insert_dates_transformed(df['transaction_date'].tolist())
+        data_tuples = [tuple(x) for x in df.to_numpy()]
+
+        columns = ', '.join(df.columns)
+        values_placeholder = ', '.join(['%s'] * len(df.columns))
+        insert_query = f"""
+                INSERT INTO fact_transaction_history ({columns}) 
+                VALUES ({values_placeholder})
+                ON CONFLICT (stock_code, transaction_date) 
+                DO UPDATE SET 
+                    {', '.join([f"{col} = EXCLUDED.{col}" for col in df.columns if col not in ["stock_code",
+                                                                                               "transaction_date"]])}
+                """
+
+        # Execute batch insert
+        cur.executemany(insert_query, data_tuples)
+        conn.commit()
+
+        print(f"Successfully inserted {len(data_tuples)} rows into fact_transaction_history")
+
+    except Exception as e:
+        raise e
+    finally:
+        cur.close()
+        conn.close()
+
+
+def insert_financial_facts():
+    df = pd.read_csv(os.path.join(BASE_DIR, "data/transformed/aggregated_financial.csv"), index_col=False)
+    conn = psycopg2.connect(**DB_CONFIG)
+    cur = conn.cursor()
+    try:
+        insert_dates_transformed(df['date_key'].tolist())
+        df = df.rename({'date_key': 'financial_year'}, axis="columns")
+        df = df.drop(["time"], axis="columns")
+        data_tuples = [tuple(x) for x in df.to_numpy()]
+
+        columns = ', '.join(df.columns)
+        values_placeholder = ', '.join(['%s'] * len(df.columns))
+        insert_query = f"""
+                    INSERT INTO fact_financial_statement ({columns}) 
+                    VALUES ({values_placeholder})
+                    ON CONFLICT (stock_code, financial_year) 
+                    DO UPDATE SET 
+                        {', '.join([f"{col} = EXCLUDED.{col}" for col in df.columns if col not in ["stock_code",
+                                                                                                   "financial_year"]])}
+                    """
+
+        # Execute batch insert
+        cur.executemany(insert_query, data_tuples)
+        conn.commit()
+
+        print(f"Successfully inserted {len(data_tuples)} rows into fact_financial_statement")
+
+    except Exception as e:
+        raise e
     finally:
         cur.close()
         conn.close()

@@ -1,0 +1,10 @@
+{
+  "Mua - Khối lượng": "proprietary_buy_volume",
+  "Mua - Giá trị (tỷ VNĐ)": "proprietary_buy_value",
+  "Bán - Khối lượng": "proprietary_sell_volume",
+  "Bán - Giá trị (tỷ VNĐ)": "proprietary_sell_value",
+  "Giao dịch ròng - Khối lượng": "proprietary_net_volume",
+  "Giao dịch ròng - Giá trị (tỷ VNĐ)": "proprietary_net_value",
+  "stock_code": "stock_code",
+  "transaction_date": "transaction_date"
+}

@@ -1,0 +1,13 @@
+{
+  "Giá (nghìn VNĐ) - Đóng cửa": "closing_price",
+  "Giá (nghìn VNĐ) - Điều chỉnh": "reference_price",
+  "GD khớp lệnh - Khối lượng": "matched_volume",
+  "GD khớp lệnh - Giá trị (tỷ VNĐ)": "matched_value",
+  "GD thỏa thuận - Khối lượng": "negotiated_volume",
+  "GD thỏa thuận - Giá trị (tỷ VNĐ)": "negotiated_value",
+  "Giá (nghìn VNĐ) - Mở cửa": "opening_price",
+  "Giá (nghìn VNĐ) - Cao nhất": "highest_price",
+  "Giá (nghìn VNĐ) - Thấp nhất": "lowest_price",
+  "stock_code": "stock_code",
+  "transaction_date": "transaction_date"
+}

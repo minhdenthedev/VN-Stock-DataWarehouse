@@ -7,12 +7,15 @@ from airflow.providers.common.sql.operators.sql import SQLExecuteQueryOperator
 from get_enterprise_utils import *
 from database_utils import *
 import os
+from utils import BASE_DIR, aggregate_financial_facts
 
 from airflow.decorators import dag, task
 from datetime import datetime, timedelta
 
-NIEM_YET_URL = "https://cafef.vn/du-lieu/du-lieu-doanh-nghiep.chn"
-BASE_DIR = "/home/m1nhd3n/Works/DataEngineer/DataFlow2025Task2"
+import balance_transform
+import cash_flow_transform
+import transaction_history_transform
+import inc_transform
 
 
 @dag(
@@ -20,7 +23,7 @@ BASE_DIR = "/home/m1nhd3n/Works/DataEngineer/DataFlow2025Task2"
     catchup=False,
     start_date=datetime(2024, 3, 1)
 )
-def extract_data_from_sources():
+def pipeline():
     start = EmptyOperator(task_id="start")
     skip_create_db = EmptyOperator(task_id="skip_create_db")
 
@@ -37,7 +40,7 @@ def extract_data_from_sources():
     initiate_postgres = BashOperator(
         task_id='initiate_postgres',
         bash_command='PGPASSWORD="12" pg_restore -U postgres -h localhost -d '
-                     'vn_stock_dw /home/m1nhd3n/Works/DataEngineer/DataFlow2025Task2/scripts/sqls/initial.sql',
+                     'vn_stock_dw /home/m1nhd3n/Works/DataEngineer/DataFlow2025Task2/etl_scripts/sqls/initial.sql',
         env={'PGPASSWORD': '12'},
     )
 
@@ -102,7 +105,7 @@ def extract_data_from_sources():
     def extract_niem_yet(comp_list: pd.DataFrame):
         try:
             site = 'niem_yet'
-            url = NIEM_YET_URL
+            url = "https://cafef.vn/du-lieu/du-lieu-doanh-nghiep.chn"
             data_folder = os.path.join(BASE_DIR, 'data/raw')
             save_path = os.path.join(data_folder, site + ".csv")
             if os.path.exists(save_path):
@@ -126,6 +129,61 @@ def extract_data_from_sources():
 
     end = EmptyOperator(task_id="end")
 
+    financial_elt_start = EmptyOperator(
+        task_id="financial_elt_start"
+    )
+
+    extract_and_load_balance = EmptyOperator(
+        task_id="extract_and_load_balance"
+    )
+
+    transform_balance_task = PythonOperator(
+        task_id="transform_balance",
+        python_callable=balance_transform.transform_balance
+    )
+
+    extract_and_load_cashflow = EmptyOperator(
+        task_id="extract_and_load_cashflow"
+    )
+
+    transform_cashflow_task = PythonOperator(
+        task_id="transform_cashflow",
+        python_callable=cash_flow_transform.transform_cashflow
+    )
+
+    aggregate_financial_facts_task = PythonOperator(
+        task_id="aggregate_fin_facts",
+        python_callable=aggregate_financial_facts
+    )
+
+    extract_and_load_transactions = EmptyOperator(
+        task_id="extract_and_load_transactions"
+    )
+
+    transform_transactions_task = PythonOperator(
+        task_id="transform_transactions",
+        python_callable=transaction_history_transform.transform_trans_history
+    )
+
+    load_transaction_into_db = PythonOperator(
+        task_id="load_transaction_into_db",
+        python_callable=insert_transaction_hist
+    )
+
+    extract_and_load_inc = EmptyOperator(
+        task_id="extract_and_load_inc"
+    )
+
+    transform_income_task = PythonOperator(
+        task_id="transform_income",
+        python_callable=inc_transform.transform_inc_state
+    )
+
+    load_fin_facts_into_db = PythonOperator(
+        task_id="load_fin_facts_into_db",
+        python_callable=insert_financial_facts
+    )
+
     vn30 = get_list()
     niem_yet = extract_niem_yet(vn30)
     industry_table = get_industries_table()
@@ -134,6 +192,12 @@ def extract_data_from_sources():
     start >> check_condition_pg >> [initiate_postgres, skip_create_db] >> end
     start >> vn30 >> niem_yet >> get_ent_data >> load_enterprises_into_db >> load_sub_companies_into_db >> end
     start >> industry_table >> load_industries_to_db >> load_enterprises_into_db
+    start >> financial_elt_start
+    financial_elt_start >> extract_and_load_balance >> transform_balance_task >> aggregate_financial_facts_task
+    financial_elt_start >> extract_and_load_cashflow >> transform_cashflow_task >> aggregate_financial_facts_task
+    financial_elt_start >> extract_and_load_inc >> transform_income_task >> aggregate_financial_facts_task
+    aggregate_financial_facts_task >> load_fin_facts_into_db >> end
+    start >> extract_and_load_transactions >> transform_transactions_task >> load_transaction_into_db >> end
 
 
-dag = extract_data_from_sources()
+dag = pipeline()

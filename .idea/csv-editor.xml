@@ -3,42 +3,77 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="/data/raw/e_w_i_fix.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/raw/e_w_info.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/raw/e_w_info_industry.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/raw/enterprises.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="|" />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/data/raw/enterprises/enterprises.csv">
+        <entry key="/data/processed_financial_statement/balance/VIC_transformed.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/raw/enterprises/niem_yet.csv">
+        <entry key="/data/processed_financial_statement/cafef-his-1/ACB_csv/ACB_owner-contents-table_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/cafef-his-1/ACB_csv/ACB_owner-contents-table_2.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/ACB_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/SSI_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/STB_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/TPB_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/VCB_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/VHM_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/processed_financial_statement/inc_state/VIC_transformed.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/raw/enterprises.csv">
           <value>
             <Attribute>
               <option name="separator" value="|" />
@@ -73,17 +108,38 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/raw/subcompanies.csv">
+        <entry key="/data/transformed/aggregated_financial.csv">
           <value>
             <Attribute>
-              <option name="separator" value="|" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/raw/vn30_list.csv">
+        <entry key="/data/transformed/transaction_history.csv">
           <value>
             <Attribute>
-              <option name="separator" value="|" />
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/transformed/transformed_balance.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/transformed/transformed_cashflow.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/data/transformed/transformed_inc.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>

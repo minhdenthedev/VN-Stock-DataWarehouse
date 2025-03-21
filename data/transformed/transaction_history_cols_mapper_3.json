@@ -1,0 +1,12 @@
+{
+  "Giao dịch ròng - Khối lượng": "foreign_net_volume",
+  "Giao dịch ròng - Giá trị (tỷ VNĐ)": "foreign_net_value",
+  "Mua - Giá trị (tỷ VNĐ)": "foreign_buy_value",
+  "Mua - Khối lượng": "foreign_buy_volume",
+  "Bán - Khối lượng": "foreign_sell_volume",
+  "Bán - Giá trị (tỷ VNĐ)": "foreign_sell_value",
+  "Room còn lại": "remaining_room",
+  "Đang sở hữu": "foreign_ownership",
+  "stock_code": "stock_code",
+  "transaction_date": "transaction_date"
+}

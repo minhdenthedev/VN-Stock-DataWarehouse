@@ -1,0 +1,9 @@
+{
+  "Mua - Số lệnh": "buy_orders",
+  "Mua - Khối lượng": "buy_volume",
+  "Bán - Số lệnh": "sell_orders",
+  "Bán - Khối lượng": "sell_volume",
+  "Khối lượng ròng": "net_volume",
+  "stock_code": "stock_code",
+  "transaction_date": "transaction_date"
+}
