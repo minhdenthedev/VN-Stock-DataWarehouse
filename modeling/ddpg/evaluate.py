@@ -35,7 +35,6 @@ while not done:
     action, _states = model.predict(obs)
     action = np.clip(action, 0, 1)  # Ensure weights are non-negative
     action /= action.sum() if action.sum() > 0 else 1
-    print(test_env._get_observation())
     obs, reward, done, _, _ = test_env.step(action)
     port_values.append(test_env.current_balance)
 

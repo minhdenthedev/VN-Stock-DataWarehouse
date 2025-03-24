@@ -28,7 +28,7 @@ def compute_annual_volatility(portfolio_values, days_held=120):
             ((ahead_port_values[i] - portfolio_values[i]) / portfolio_values[i])
         )
 
-    return (np.std(np.array(annual_returns)) * np.sqrt(252 / days_held))
+    return np.std(np.array(annual_returns)) * np.sqrt(252 / days_held)
 
 
 def calculate_sharpe_ratio(annual_return, annual_volatility, risk_free_rate=0):
