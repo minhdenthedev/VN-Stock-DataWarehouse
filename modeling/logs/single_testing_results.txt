@@ -1,0 +1,6 @@
+========DDPG TESTING RESULTS========
+Annual Return: -0.9223864456805608
+Portfolio Performance: 0.9752420382439762
+========MARKOWITZ TESTING RESULTS========
+Annual Return: 0.18196320466714466
+Portfolio Performance: 1.0850197553490988

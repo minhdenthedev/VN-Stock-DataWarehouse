@@ -1,0 +1,8 @@
+========DDPG TRAINING RESULTS========
+Annual Return: 0.17984122485033405
+Annual volatility: 0.25479974690303214
+Sharpe Ratio: 0.7058139854384365
+========MARKOWITZ TRAINING RESULTS========
+Expected annual return: 198.8%
+Annual volatility: 25.7%
+Sharpe Ratio: 7.72
